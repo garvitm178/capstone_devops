@@ -1,2 +1,2 @@
-# capstone_devops
+# Capstone_devops
 Udacity DevOps Nanodegree Capstone Project
